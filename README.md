@@ -1,98 +1,118 @@
 Healthcare & Clinical Data Analytics Portfolio
-Luis Bolaños | Clinical Data Analyst | Healthcare Analytics | Health Economics
+### Luis Bolaños Prado  
+Healthcare Data Analyst | Health Economist | Cost-of-Care Modeling Specialist
 
-Welcome — and thank you for visiting.
+I specialize in **healthcare cost analytics, clinical pathway modeling, and health economics**, transforming clinical, operational, and financial data into decision-support intelligence for hospitals, insurers, and public health systems.
 
-This portfolio showcases real-world healthcare analytics projects where I transform clinical, operational, and financial data into actionable insights that support better decisions, improved outcomes, and sustainable health systems.
+With **20+ years of international experience**, I lead large-scale cost studies that support reimbursement design, contracting strategies, budgeting, and sustainable healthcare financing.
 
-My work sits at the intersection of:
+---
 
-Clinical data
+#  Flagship Healthcare Cost Studies
 
-Health economics
+## 📊 System-Wide Cost Modeling of 25 High-Frequency Conditions (INSS)
+📄 **Working Paper (PDF)**  
+👉 [Download here](./Informe_Costos_25Motivos_Consulta_INSS.pdf)
 
-Cost modeling
+Principal Investigator & Study Supervisor
 
-Decision-support analytics
+- 25 consultation and hospitalization conditions
+- 717 clinical records analyzed
+- 11 healthcare providers
+- 30+ clinical experts
+- Activity-Based Costing (ABC) + clinical pathways
+- Direct and indirect cost allocation
 
-Public health strategy
+Impact:
+- Established standardized cost benchmarks
+- Supported capitation and reimbursement negotiations
+- Improved provider payment strategies
+- Strengthened institutional cost analytics capacity
 
-With 20+ years of experience collaborating with physicians, hospitals, and health institutions across multiple countries, I specialize in building analysis-ready datasets, structured cost models, and dashboards that inform policy and operational decisions.
+Skills: Health economics • System-level costing • Payment models • Cost normalization • Multi-site analytics
 
-Featured Project — Oncology Cost-of-Care Analysis (Policy-Level Clinical Study)
+---
 
-📄 Technical Brief (PDF)
-Oncology_Cost_of_Care_Clinical_Data_Analytics_Portfolio_Luis_Bolanos.pdf
+## 🏥 Occupational Health Cost Modeling (Multi-Facility Study)
+📄 **Working Paper (PDF)**  
+👉 [Download here](./Healthcare-Cost-Modeling-Occupational-Health.pdf)
 
-Led a stage-based cost-of-care evaluation for cervical and breast cancer in collaboration with national health authorities and oncology specialists.
+Principal Investigator
 
-Using Activity-Based Costing and clinical pathway modeling, this project:
+- 25 occupational risk events
+- 37 care pathways modeled
+- Multi-facility cost integration
+- Activity-Based Costing
 
-Analyzed 30 clinical cases
+Impact:
+- Identified cost drivers
+- Supported contracting and budgeting decisions
+- Standardized resource planning
 
-Engaged 20+ oncology experts
+Skills: Care pathway costing • Operations analytics • Cost modeling • Resource utilization
 
-Built standardized, regulatory-grade cost models
+---
 
-Supported benefit package design and reimbursement strategy
+## 🎗 Oncology Cost-of-Care Analysis (Cervical & Breast Cancer)
+📄 **Technical Brief (PDF)**  
+👉 [Download here](./Oncology_Cost_of_Care_Clinical_Data_Analytics_Portfolio_Luis_Bolanos.pdf)
 
-Informed institutional budgeting and financing decisions
+Led stage-based clinical cost evaluation with oncology specialists and national health authorities.
 
-Skills demonstrated:
-Healthcare cost modeling • SQL-ready datasets • Clinical workflows • Health economics • Decision-support analytics
+- 30 clinical cases analyzed
+- 20+ oncology experts engaged
+- Treatment pathway costing
+- Regulatory-grade financial modeling
 
-Core Skills
+Impact:
+- Supported benefit package design
+- Informed reimbursement strategy
+- Enabled evidence-based budgeting
 
-Data & Analytics
+Skills: Clinical workflows • Oncology analytics • Cost-of-care modeling • Policy support
 
-SQL Server
+---
 
-Data cleaning & transformation
+# Core Skills
 
-Analytical dataset design
+## Data & Analytics
+- SQL Server
+- Data cleaning & transformation
+- Analytical dataset design
+- Cost modeling (Activity-Based Costing)
+- Excel analytics
+- Tableau / Power BI
 
-Cost modeling
-
-Tableau / Power BI
-
-Excel analytics
-
-Healthcare & Clinical
-
-Clinical pathways analysis
-
-Health economics & outcomes research
-
-Utilization & cost-of-care studies
-
-Population health analytics
-
-Real-World Evidence (RWE)
+## Healthcare & Economics
+- Clinical pathway analysis
+- Health economics & outcomes research
+- Utilization & cost-of-care studies
+- Provider payment models (capitation, reimbursement)
+- Population health analytics
+- Real-World Evidence (RWE)
 
 Currently strengthening: Python for advanced analytics & predictive modeling
 
-Additional Projects
+---
 
-Nurse workforce & attrition dashboards
+# Additional Projects
+- Nurse workforce & attrition dashboards
+- Hospital length-of-stay (LOS) analytics
+- Disease registry & chronic condition analysis
+- Epidemiological & public health studies
 
-Hospital length-of-stay (LOS) analytics
+---
 
-Disease registry & chronic condition analysis
+# Professional Focus
 
-Public health epidemiological studies
+Open to roles in:
+- Healthcare / Clinical Data Analytics
+- Health Economics & Outcomes Research
+- Value-Based Care Analytics
+- Healthcare Operations & Strategy
+- Insurance & Reimbursement Analytics
 
-Professional Focus
+---
 
-I am pursuing roles in:
-
-Clinical / Healthcare Data Analytics
-
-Translational medicine & AI initiatives
-
-Oncology & biomedical analytics
-
-Healthcare operations & decision support
-
-My mission is simple:
-
-Turn healthcare data into clarity that helps clinicians and organizations make better decisions for patients.
+# Mission
+Turn healthcare data into clarity that helps clinicians, insurers, and health systems make better decisions for patients.
