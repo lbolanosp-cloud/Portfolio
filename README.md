@@ -1,95 +1,150 @@
-Healthcare & Clinical Data Analytics Portfolio
+# Healthcare Analytics & Health Economics Portfolio  
 ### Luis Bolaños Prado  
-Healthcare Data Analyst | Health Economist | Cost-of-Care Modeling Specialist
+Healthcare Data Analyst | Health Economist | Cost-of-Care & Health Financing Specialist
 
-I specialize in **healthcare cost analytics, clinical pathway modeling, and health economics**, transforming clinical, operational, and financial data into decision-support intelligence for hospitals, insurers, and public health systems.
+Welcome — and thank you for visiting.
 
-With **20+ years of international experience**, I lead large-scale cost studies that support reimbursement design, contracting strategies, budgeting, and sustainable healthcare financing.
+I specialize in **healthcare cost analytics, economic evaluation, and health financing modeling**, transforming clinical, operational, and financial data into decision-support intelligence for hospitals, insurers, governments, and development banks.
+
+With **20+ years of international experience**, I lead large-scale cost studies and economic evaluations that inform reimbursement design, contracting strategies, budget planning, and multi-million-dollar health investments.
+
+My work combines:
+- Activity-Based Costing (ABC)
+- Clinical pathway modeling
+- Cost-of-care analysis
+- Capitation pricing
+- Cost-Benefit Analysis (CBA)
+- Population health economics
+- Decision-support analytics
 
 ---
 
-#  Flagship Healthcare Cost Studies
+#  Flagship Economic & Cost Modeling Studies
 
-## 📊 System-Wide Cost Modeling of 25 High-Frequency Conditions (INSS)
+##  Ex-Ante Economic Evaluation & Cost-Benefit Analysis (IDB – Honduras)
+📄 **Working Paper (PDF)**  
+👉 [Download here](./Evaluacion_ExAntes_Análisis_Costo_Beneficio_Proyecto_Honduras.pdf)
+
+Lead Economic Evaluation Consultant – Inter-American Development Bank
+
+- $50M national health investment evaluated
+- DALYs monetization framework
+- With-project vs without-project scenarios
+- Sensitivity analysis & ROI modeling
+- ~2,500 deaths/disabilities prevented
+- ≈ $97M social benefits
+- Benefit–Cost Ratio: **1.94**
+
+Impact:
+- Supported IDB financing approval
+- Informed national policy decisions
+- Demonstrated strong social return on investment
+
+Skills: Economic evaluation • Cost-benefit • DALYs • ROI • Health financing
+
+---
+
+##  Primary Care Costing & Capitation Rate Design (IDB – Honduras)
+📄 **Working Paper (PDF)**  
+👉 [Download here](./Estudio_Costos_Prestaciones_Primer_Nivel_Atencion_Honduras.pdf)
+
+Health Economics Consultant
+
+- First-level primary healthcare services
+- ~745,000 beneficiaries
+- Unit cost estimation per service
+- Activity-Based Costing (ABC)
+- Direct & indirect cost allocation
+- Capitation payment modeling
+
+Impact:
+- Supported provider payment reform
+- Informed reimbursement contracts
+- Strengthened financial sustainability of decentralized providers
+
+Skills: Capitation pricing • Provider payments • Cost normalization • Population health costing
+
+---
+
+##  System-Wide Healthcare Cost Modeling – 25 High-Frequency Conditions (INSS)
 📄 **Working Paper (PDF)**  
 👉 [Download here](./Informe_Costos_25Motivos_Consulta_INSS.pdf)
 
 Principal Investigator & Study Supervisor
 
-- 25 consultation and hospitalization conditions
+- 25 consultation & hospitalization conditions
 - 717 clinical records analyzed
-- 11 healthcare providers
+- 11 providers
 - 30+ clinical experts
-- Activity-Based Costing (ABC) + clinical pathways
-- Direct and indirect cost allocation
+- Clinical pathway costing
 
 Impact:
-- Established standardized cost benchmarks
-- Supported capitation and reimbursement negotiations
-- Improved provider payment strategies
-- Strengthened institutional cost analytics capacity
+- Standardized national cost benchmarks
+- Supported reimbursement negotiations
+- Improved budgeting accuracy
 
-Skills: Health economics • System-level costing • Payment models • Cost normalization • Multi-site analytics
+Skills: System-level costing • Multi-site analytics • Cost benchmarking
 
 ---
 
-## 🏥 Occupational Health Cost Modeling (Multi-Facility Study)
+##  Occupational Health Cost Modeling (Multi-Facility Study)
 📄 **Working Paper (PDF)**  
 👉 [Download here](./Healthcare-Cost-Modeling-Occupational-Health.pdf)
 
 Principal Investigator
 
 - 25 occupational risk events
-- 37 care pathways modeled
-- Multi-facility cost integration
-- Activity-Based Costing
+- 37 care pathways
+- Direct + indirect cost structures
+- Multi-facility financial integration
 
 Impact:
 - Identified cost drivers
-- Supported contracting and budgeting decisions
-- Standardized resource planning
+- Supported contracting & budgeting decisions
+- Improved operational planning
 
-Skills: Care pathway costing • Operations analytics • Cost modeling • Resource utilization
+Skills: Care pathways • Resource utilization • Cost modeling
 
 ---
 
-## 🎗 Oncology Cost-of-Care Analysis (Cervical & Breast Cancer)
+##  Oncology Cost-of-Care Analysis (Cervical & Breast Cancer)
 📄 **Technical Brief (PDF)**  
 👉 [Download here](./Oncology_Cost_of_Care_Clinical_Data_Analytics_Portfolio_Luis_Bolanos.pdf)
 
-Led stage-based clinical cost evaluation with oncology specialists and national health authorities.
+Lead Analyst
 
-- 30 clinical cases analyzed
-- 20+ oncology experts engaged
-- Treatment pathway costing
-- Regulatory-grade financial modeling
+- Stage-based treatment costing
+- 30 clinical cases
+- 20+ oncology experts
+- Regulatory-grade financial models
 
 Impact:
 - Supported benefit package design
 - Informed reimbursement strategy
 - Enabled evidence-based budgeting
 
-Skills: Clinical workflows • Oncology analytics • Cost-of-care modeling • Policy support
+Skills: Oncology analytics • Cost-of-care • Clinical workflows
 
 ---
 
 # Core Skills
 
-## Data & Analytics
+## Analytics & Tools
 - SQL Server
+- Excel advanced modeling
+- Tableau / Power BI
 - Data cleaning & transformation
 - Analytical dataset design
-- Cost modeling (Activity-Based Costing)
-- Excel analytics
-- Tableau / Power BI
 
-## Healthcare & Economics
-- Clinical pathway analysis
-- Health economics & outcomes research
-- Utilization & cost-of-care studies
-- Provider payment models (capitation, reimbursement)
+## Health Economics & Financing
+- Activity-Based Costing (ABC)
+- Cost-of-care analysis
+- Clinical pathway modeling
+- Capitation & provider payments
+- Cost-benefit analysis (CBA)
+- Budget impact analysis
+- DALYs / outcomes monetization
 - Population health analytics
-- Real-World Evidence (RWE)
 
 Currently strengthening: Python for advanced analytics & predictive modeling
 
@@ -98,7 +153,7 @@ Currently strengthening: Python for advanced analytics & predictive modeling
 # Additional Projects
 - Nurse workforce & attrition dashboards
 - Hospital length-of-stay (LOS) analytics
-- Disease registry & chronic condition analysis
+- Disease registries & chronic condition analysis
 - Epidemiological & public health studies
 
 ---
@@ -107,12 +162,13 @@ Currently strengthening: Python for advanced analytics & predictive modeling
 
 Open to roles in:
 - Healthcare / Clinical Data Analytics
-- Health Economics & Outcomes Research
+- Health Economics & Outcomes Research (HEOR)
 - Value-Based Care Analytics
-- Healthcare Operations & Strategy
-- Insurance & Reimbursement Analytics
+- Healthcare Financing & Payment Models
+- Insurance / Payer Analytics
+- Development bank & policy consulting
 
 ---
 
 # Mission
-Turn healthcare data into clarity that helps clinicians, insurers, and health systems make better decisions for patients.
+Turn healthcare data into financial clarity and evidence that helps organizations invest smarter and improve patient outcomes.
